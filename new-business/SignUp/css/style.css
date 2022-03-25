@@ -1,0 +1,24 @@
+.modal{
+
+
+}
+
+a:link, a:visited {
+
+    text-decoration: none;
+}
+.modal-body
+{
+    background: #E74C3C;
+    border: #E74C3C;
+}
+.modal-body .btn
+{
+    font-variant: all-petite-caps;
+    font-family: all-petite-caps;
+
+}
+.modal-body .btn .bottom-left
+{
+
+}
